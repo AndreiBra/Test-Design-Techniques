@@ -16,6 +16,6 @@
 + Анализ граничных значений
 
 
-> Задание по знакам зодиака сотреть в [Google Таблице](https://docs.google.com/spreadsheets/d/1ih8mvV9J-LW11G9QJpe5BVmALeGRlF98/edit#gid=1366835506)
+> Задание по знакам зодиака смотреть в [Google Таблице](https://docs.google.com/spreadsheets/d/1ih8mvV9J-LW11G9QJpe5BVmALeGRlF98/edit#gid=1366835506)
 ----
 
