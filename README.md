@@ -8,7 +8,7 @@
 * Диаграмма перехода состояний (State-transition Diagram) [Пример](https://docs.google.com/spreadsheets/d/1ub6R-j9NLg-xQUi3_p6RAGbE1cLi09bK/edit#gid=319804793)
 * Диаграмма пользовательских ролей (Use Case Diagram) [Пример](https://docs.google.com/spreadsheets/d/1uqmKkYKkSvXkSz6ZPX5TaPU0Kdi0-2nK/edit#gid=731404773)
 * Угадывание ошибок (Error Guessing)
-* Исследовательское тестирование (Exploratory Testing)
+* Исследовательское тестирование (Exploratory Testing) [Пример](https://docs.google.com/spreadsheets/d/1P965tNmfIaEWIeCtD1aKL-qjxtljLRTi/edit#gid=1970954576)
 
 ---
 - [X] **Тестовое задание на использование техник тест-дизайна**
