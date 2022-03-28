@@ -1,6 +1,6 @@
 # Test-Design-Techniques
 
-* Эквивалентное разделение (Equivalence Partitioning)
+* Эквивалентное разделение (Equivalence Partitioning)[Пример](https://docs.google.com/spreadsheets/d/1Ele9_ULjbj-KigNjlLJ36UMk3hyfLomq/edit#gid=503939642)
 * Граничные значения (Boundary Values)
     [Пример](https://docs.google.com/spreadsheets/d/1md6yp7h3GA-b8eBSFbkjF1QdSkfflP8u/edit#gid=1614857043)    
 * Таблица принятия решений (Desicion Table) [Пример](https://docs.google.com/spreadsheets/d/1JyP-IzOEhOSS8Hg_CiyxJl-FUvZwrMtt/edit#gid=1172003959)
