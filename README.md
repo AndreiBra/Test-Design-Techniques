@@ -6,7 +6,7 @@
 * Таблица принятия решений (Desicion Table)
 * Парное тестирование (Pairwise Testing)
 * Диаграмма перехода состояний (State-transition Diagram) [Пример](https://docs.google.com/spreadsheets/d/1ub6R-j9NLg-xQUi3_p6RAGbE1cLi09bK/edit#gid=319804793)
-* Диаграмма пользовательских ролей (Use Case Diagram)
+* Диаграмма пользовательских ролей (Use Case Diagram) [Пример](https://docs.google.com/spreadsheets/d/1uqmKkYKkSvXkSz6ZPX5TaPU0Kdi0-2nK/edit#gid=731404773)
 * Угадывание ошибок (Error Guessing)
 * Исследовательское тестирование (Exploratory Testing)
 
